@@ -10,7 +10,7 @@ tags:
   
 ---
 
-GUI's are nice and all, but nothing beats command-line for the day to day stuff. I'm a total fan of small productivity tools, and I'm constantly trying to find new ways to hack my bash to do si.... Here are my favorite tools, hacks and dotfiles to increase my productivity in the command-line:
+GUI's are nice and all, but nothing beats command-line for the day to day stuff. I'm a total fan of small productivity tools, and I'm constantly trying to find new ways to hack my bash to do so.... Here are my favorite tools, hacks and dotfiles to increase my productivity in the command-line.
 
 [tmux: A terminal multiplexer](http://tmux.github.io/)
 ===========
