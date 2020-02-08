@@ -94,4 +94,5 @@ However, since they are now a part of the Linux/Unix world, its common to find l
 
 - [unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [Jess Frazelle dotfiles](https://github.com/jessfraz/dotfiles)
 - [My humble dotfiles](https://github.com/fsilveir/.dotfiles)

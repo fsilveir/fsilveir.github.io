@@ -11,7 +11,7 @@ title                    : "fsilveir.github.io"
 title_separator          : "-"
 name                     : &name "Felipe Silveira"
 description              : &description "personal description"
-url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fsilveir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fsilveir.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/7010574/felipe-silveira"
+  stackoverflow    : "7010574/felipe-silveira"
   steam            :
   tumblr           :
   twitter          : "felipealexandre"
